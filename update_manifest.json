@@ -1,17 +1,7 @@
-﻿{
+{
   "code": {
     "version": "1.1.1",
     "url": "https://raw.githubusercontent.com/yishengmoli/AudioToFace-Updates/main/AudioToFace_code_1.1.1.zip",
     "sha256": "ddbb0ee081e666bb3ce5705fe72aa800cd18c70ff15f87d877f6a6d23d28bb20"
-  },
-  "model": {
-    "version": "3.0",
-    "url": "https://github.com/yishengmoli/AudioToFace-Updates/releases/download/v1.1.1/AudioToFace_model_3.0.zip",
-    "sha256": ""
-  },
-  "deps": {
-    "version": "1.26.0",
-    "url": "https://github.com/yishengmoli/AudioToFace-Updates/releases/download/v1.1.1/AudioToFace_deps_1.26.0.zip",
-    "sha256": ""
   }
 }
