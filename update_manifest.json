@@ -1,10 +1,10 @@
 {
   "code": {
-    "version": "1.2.0",
+    "version": "1.2.6",
     "url": [
-      "https://atf-updates.oss-cn-beijing.aliyuncs.com/AudioToFace_code_1.2.0.zip",
-      "https://raw.githubusercontent.com/yishengmoli/AudioToFace-Updates/main/AudioToFace_code_1.2.0.zip"
+      "https://atf-updates.oss-cn-beijing.aliyuncs.com/AudioToFace_code_1.2.6.zip",
+      "https://raw.githubusercontent.com/yishengmoli/AudioToFace-Updates/main/AudioToFace_code_1.2.6.zip"
     ],
-    "sha256": "e20fd7a6a360a187b394354dc1f0bac5fe1ab229cfb0dd4f59af58a3a1231359"
+    "sha256": "15f2596aa3d02b1d0147bdee1d74ca47660917ce422e2a74e7ca2ca12ca561c2"
   }
 }
